@@ -1,4 +1,4 @@
-package com.hj.book;
+package com.hj.book.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
